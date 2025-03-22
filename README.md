@@ -1,4 +1,4 @@
-# FindItHub - Lost and Found Web Application
+# FindItHub | Lost and Found Web Application
 
 ## Project Description
 FindItHub is a full-stack web application designed to help users manage lost and found items efficiently. The platform allows users to post details of lost and found items, including pictures, location, and descriptions, making it easier to reunite owners with their belongings.
