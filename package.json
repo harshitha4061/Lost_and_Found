@@ -1,0 +1,22 @@
+{
+  "name": "lost-and-found",
+  "version": "1.0.0",
+  "description": "this is a lost and found website",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kh",
+  "license": "ISC",
+  "dependencies": {
+    "@tailwindcss/cli": "^4.0.8",
+    "cloudinary": "^1.41.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.2",
+    "nodemon": "^3.0.2",
+    "pug": "^3.0.2",
+    "tailwindcss": "^4.0.8"
+  }
+}
